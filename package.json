@@ -1,0 +1,24 @@
+{
+  "name": "programacion_web",
+  "version": "1.0.0",
+  "description": "trabajos en clases de programacion web",
+  "scripts": {
+    "start":"parcel public/index.html",
+    "build":"parcel build public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonelVasquezP/Programacion_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonelVasquezP/Programacion_Web/issues"
+  },
+  "homepage": "https://github.com/LeonelVasquezP/Programacion_Web#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
